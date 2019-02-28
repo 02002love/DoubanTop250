@@ -1,6 +1,6 @@
-# flutter_app
+# DoubanTop250
 
-A new Flutter application.
+小试牛刀
 
 ## Getting Started
 
